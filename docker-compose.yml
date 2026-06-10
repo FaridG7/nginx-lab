@@ -6,4 +6,4 @@ services:
       - 80:80
     volumes:
       - ./data:/data
-      - ./server-configs-nginx:/etc/nginx/
+      - ./nginx:/etc/nginx/
