@@ -1,5 +1,5 @@
 logs/
-conf.d/*.conf
+# conf.d/*.conf
 !conf.d/.default.conf
 !conf.d/no-ssl.default.conf
 test/*
