@@ -1,9 +1,10 @@
 services:
   web:
     image: nginx:latest
-    restart: always
+    # restart: always
     ports:
       - 80:80
+      - 443:443
     volumes:
-      - ./data:/data
+      - ./nginx-lab.local:/var/www/nginx-lab.local
       - ./nginx:/etc/nginx/

@@ -4,3 +4,4 @@ logs/
 !conf.d/no-ssl.default.conf
 test/*
 !test/vhosts/
+certs/*
