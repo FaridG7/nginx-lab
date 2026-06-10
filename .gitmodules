@@ -1,3 +1,0 @@
-[submodule "server-configs-nginx"]
-	path = server-configs-nginx
-	url = https://github.com/FaridG7/nginx-configs.git
