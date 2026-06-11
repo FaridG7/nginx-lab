@@ -1,0 +1,3 @@
+[submodule "nginx-lab.local"]
+	path = nginx-lab.local
+	url = git@github.com:FaridG7/dummy-website.git
